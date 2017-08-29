@@ -1,5 +1,0 @@
-admin	admin	1
-lili	lili	2
-lisan	123	2
-boss	123	1
-teacher	111	1
